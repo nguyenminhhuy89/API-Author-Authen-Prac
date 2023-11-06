@@ -12,6 +12,7 @@ gem "sqlite3", "~> 1.4"
 gem "puma", ">= 5.0"
 gem 'devise'
 gem 'jwt'
+gem 'rspec-rails'
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
